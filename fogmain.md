@@ -27,7 +27,64 @@
 ## Instal·lar i configurar 
 
 * Primer hem d'instal·lar unamàquina amb ubuntu i posar-li una IP estàtica:
-![foto prova](docs/assets/foto.png)
+![imatge](/fotos/image13.png)
+
+![imatge](/fotos/image11.png)
+
+![imatge](/fotos/image16.png)
+
+![imatge](/fotos/image17.png)
+
+![imatge](/fotos/image12.png)
+
+![imatge](/fotos/image5.png)
+
+![imatge](/fotos/image22.png)
+
+![imatge](/fotos/image19.png)
+
+![imatge](/fotos/image8.png)
+
+![imatge](/fotos/image15.png)
+
+![imatge](/fotos/image10.png)
+
+![imatge](/fotos/image24.png)
+
+![imatge](/fotos/image7.png)
+
+![imatge](/fotos/image23.png)
+
+![imatge](/fotos/image1.png)
+
+![imatge](/fotos/image9.png)
+
+![imatge](/fotos/image10.png)
+
+![imatge](/fotos/image21.png)
+
+![imatge](/fotos/image6.png)
+
+![imatge](/fotos/image23.png)
+
+![imatge](/fotos/image4.png)
+
+![imatge](/fotos/image14.png)
+
+![imatge](/fotos/image3.png)
+
+![imatge](/fotos/image2.png)
+
+![imatge](/fotos/image18.png)
+
+![imatge](/fotos/image14.png)
+
+![imatge](/fotos/image3.png)
+
+![imatge](/fotos/image25.png)
+
+![imatge](/fotos/image20.png)
+
 
 
 ## Capturar imatge client Windows 
@@ -52,7 +109,7 @@ Realitzarem la instal·lació del FOG server sobre un **Ubuntu 20.04**, ja que e
 ## Instal·lació del servidor FOG
 
 Entrem al lloc web de fog project i descarguem el fitxer tar.gz.
-![imatge](/imgs/Selecció_105.png)
+![imatge](/fotos/Selecció_1370.png)
 
 Descmprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
 ![imatge](/imgs/Selecció_106.png)
