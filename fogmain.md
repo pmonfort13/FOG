@@ -26,32 +26,48 @@ Anem a la web de FOG Project i descarreguem l'instal·lador amb _tar.gz_
 ![imatge](/fotos/image16.png)
 
 El descomprimim i executem l'script _./install.sh_ que hi ha dins de la carpeta /bin:
+Seguim la instalació i les preguntes que ens va fent, ho deixem tot per defecte i configurem la IP del server:
 ![imatge](/fotos/image17.png)
 
-Seguim la instalació i les preguntes que ens va fent, ho deixem tot per defecte i configurem la IP del server:
 ![imatge](/fotos/image12.png)
 
+Un cop instal·lat, anem al navegador i entrem a la IP del server per obrir la interficie gràfica del FOG:
 ![imatge](/fotos/image5.png)
 
-Un cop instal·lat, anem al navegador i entrem a la IP del server per obrir la interficie gràfica del FOG:
+Abans de configurar-lo, hem de canviar uns parametres del DNS i instalar _DNSMASQ_ per evitar problemes de dns:
 ![imatge](/fotos/image22.png)
-
 
 ![imatge](/fotos/image19.png)
 
 ![imatge](/fotos/image8.png)
 
+I ja estaria preparat el FOG per treballar!
+
+
+## Capturar desde client Windows:
+
+Un cop tot configurat, anem al menú d'imatges i crer _una nova imatge_
+Li posem un nom _windows10_ i selecionem el sistema operatiu
 ![imatge](/fotos/image15.png)
 
+Ara hem d'obrir la màquina de la que volem capturar la imatge i iniciar-la per xarxa, a le sopcions que ens surten, seleccionem `Quick Registration and Inventory`:
 ![imatge](/fotos/image10.png)
 
+Si comprovem al FOG podem veure que ens surt un nou host registrat:
 ![imatge](/fotos/image24.png)
 
+Entrem dintre i li associem la imatge _WINDOWS10_ que hviem creat abans
 ![imatge](/fotos/image7.png)
 
+Ara ja podem anar a `Basic Tasks` i capturar el dispositiu:
 ![imatge](/fotos/image23.png)
 
+Quan tornem a iniciar la màquina a capturar, se'ns iniciarà directament per xarxa i ens sortirà el proces de captura i automaticament començarà a clonar la màquina:
 ![imatge](/fotos/image1.png)
+
+
+## Capturar desde client Ubuntu:
+
 
 ![imatge](/fotos/image9.png)
 
