@@ -68,16 +68,24 @@ Quan tornem a iniciar la màquina a capturar, se'ns iniciarà directament per xa
 
 ## Capturar desde client Ubuntu:
 
-
+Creem una imatge amb el Sistem Operatiu Ubuntu i seguidament iniciem la màquina Ubuntu que volem capturar per xarxa i fem el `Quick Registration and Inventory`: 
 ![imatge](/fotos/image9.png)
 
+Podem comprovar que ens surt la imatge al FOG tot i que surt amb el logo de Windows, si entrem veurem que és Ubuntu:
 ![imatge](/fotos/image10.png)
 
+Li assignem la imatge Ubuntu per desar-la
 ![imatge](/fotos/image21.png)
 
+I a `Basic Tasks` configurem per iniciar la Captura del dispositiu:
 ![imatge](/fotos/image6.png)
 
+Quan tornem a iniciar la màquina a capturar, se'ns iniciarà directament per xarxa i ens sortirà el proces de captura i automaticament començarà a clonar la màquina:
 ![imatge](/fotos/image23.png)
+
+
+
+## Instal·lar imatge Windows:
 
 ![imatge](/fotos/image4.png)
 
